@@ -7,6 +7,8 @@ from Dutchess community college. I did C++ again. In New Paltz, I did CPS210 (Co
 Foundations), CPS310 (Comp Sci 2 Data Struct), CPS425 (Language Processing), CPS415 
 (Discrete & Cont Algorithms) and in this semester, I have CPS353 (Software Engineering) and 
 CPS493 (Web Programming). 
+
+
 I learnt many languages and practice all of codes. I did two projects related to the coding. I did 
 traffic light controller in EGC331(Microcontroller System Design). I designed, coded and built the 
 project. And this was the one of my best project. I coded in C++. Another project was an elevator 
