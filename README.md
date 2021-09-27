@@ -1,3 +1,4 @@
+![received_554299962518939 (1)](https://user-images.githubusercontent.com/89605989/134960178-9a795629-4dd3-4f2c-8fd1-dc49f95b0aa8.jpeg)
 # aujlar1-Ravneet-Aujla-fall-2021-clone-project
 
 I am Ravneet Aujla. I am pursuing under graduation. My major is computer engineering. Five 
