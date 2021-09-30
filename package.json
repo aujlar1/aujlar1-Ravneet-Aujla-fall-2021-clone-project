@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/aujlar1/aujlar1-Ravneet-Aujla-fall-2021-clone-project/issues"
   },
-  "homepage": "https://github.com/aujlar1/aujlar1-Ravneet-Aujla-fall-2021-clone-project#readme"
+  "homepage": "https://github.com/aujlar1/aujlar1-Ravneet-Aujla-fall-2021-clone-project#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
