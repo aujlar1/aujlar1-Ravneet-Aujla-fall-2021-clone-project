@@ -1,5 +1,7 @@
 # aujlar1-Ravneet-Aujla-fall-2021-clone-project
 
+
+
 I am Ravneet Aujla. I am pursuing under graduation. My major is computer engineering. Five 
 years ago, I moved from India. I did one and half year in computer science engineering over there. 
 I learnt C, C++, basics of data structure. I did associate degree and major in engineering science 
