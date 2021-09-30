@@ -1,0 +1,26 @@
+{
+  "name": "aujlar1-ravneet-aujla-fall-2021-clone-project",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aujlar1/aujlar1-Ravneet-Aujla-fall-2021-clone-project.git"
+  },
+  "keywords": [
+    "package.json",
+    "aujlar1-ravneet-aujla-fall-2021-clone-project"
+  ],
+  "author": "Ravneet Aujla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aujlar1/aujlar1-Ravneet-Aujla-fall-2021-clone-project/issues"
+  },
+  "homepage": "https://github.com/aujlar1/aujlar1-Ravneet-Aujla-fall-2021-clone-project#readme"
+}
